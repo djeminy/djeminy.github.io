@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jörg Kienzle"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Full Professor at the School of Computer Science, McGill University"
+  location         : "Montreal, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
