@@ -1,6 +1,6 @@
 ---
 title: "Concern-Oriented Reuse"
-excerpt: "A new paradigm of reuse.<br/><img src='/images/CORE_logo.png'>"
+excerpt: "<img src='/images/CORE_logo.png'><br/>Concern-oriented Reuse (CORE) is an new software development paradigm introduced by my research team in 2013 that combines the ideas of Model-Driven Engineering (MDE), advanced modularization techniques (aspects), and software product lines, to address the challenge of how to enable broad-scale, model-based reuse."
 collection: portfolio
 ---
 
