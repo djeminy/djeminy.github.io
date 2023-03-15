@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Concern-Oriented Reuse"
+excerpt: "A new paradigm of reuse.<br/><img src='/images/CORE_logo.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Concern-oriented Reuse (CORE) is an new software development paradigm introduced by my research team in 2013 that combines the ideas of Model-Driven Engineering (MDE), advanced modularization techniques (aspects), and software product lines, to address the challenge of how to enable broad-scale, model-based reuse. A concern is a unit of reuse that groups together software artifacts (models and code,) describing properties and behaviour related to any domain of interest to a software engineer at different levels of abstraction. A concern provides three interfaces [#kienzle2016b]: The variation interface (VI) describes required design decisions and their impact on high-level system qualities, both explicitly expressed using feature and impact models in the concern specification. The customization interface (CI) allows the chosen variation to be adapted to a specific reuse context, while the usage interface (UI) defines how the functionality encapsulated by a concern may be used. CORE streamlines the reuse process by allowing a developer to a) choose a desired variant (from the VI), adapt the chosen models to the reuse context (with the CI), and then CORE offers the developer the possibility delay design decisions.
