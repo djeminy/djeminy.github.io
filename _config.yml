@@ -85,9 +85,9 @@ author:
   bio              : "Full Professor at the School of Computer Science, McGill University"
   location         : "Montreal, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=INUL3eEAAAAJ&hl=en"
-  email            :
+  email            : "Joerg.Kienzle@mcgill.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
