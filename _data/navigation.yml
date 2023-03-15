@@ -5,9 +5,9 @@ main:
         
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Publications"
-    url: /publications/
+
+  - title: "TouchCORE"
+    url: /touchcore/
 
   - title: "CV"
     url: /cv/
