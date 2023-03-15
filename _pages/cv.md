@@ -25,7 +25,8 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ### Service and Leadership
 
-Scientific events I was/am involved in:
+Scientific events I am/was involved in:
 
-* [International Conference on Model Driven Engineering Languages and Systems](https://conf.researchr.org/home/models-2023) -– MODELS 2023, Västerås, Sweden, October 1st - 6th, 2023.
-* [1st Workshop on Polyglot Software Development](https://bellairs2023.ece.mcgill.ca), McGill Bellairs Research Institute, Barbados, January 20th - January 27th, 2023.
+* [International Conference on Model Driven Engineering Languages and Systems](https://conf.researchr.org/home/models-2023) -– MODELS 2023, Västerås, Sweden, October 1st - 6th, 2023 -- Journal First Papers Chair, Program Board Member.
+* [19th European Conference on Modelling Foundations and Applications](https://conf.researchr.org/home/ecmfa-2023) –- ECMFA 2023, Leicester, United Kingdom, July 17th - 21st, 2023 -- Program Committee Member.
+* [1st Workshop on Polyglot Software Development](https://bellairs2023.ece.mcgill.ca), McGill Bellairs Research Institute, Barbados, January 20th - January 27th, 2023 -- Organizer.
