@@ -14,10 +14,10 @@ My main area of research is software engineering, and in particular model-driven
 
 ### Address
 
-School of Computer Science
-McGill University
-3480 University, McConnell Eng. 318
-H3A 0E9 Montreal, QC, Canada
+School of Computer Science<br>
+McGill University<br>
+3480 University, McConnell Eng. 318<br>
+H3A 0E9 Montreal, QC, Canada<br>
 
 ### Office
 
