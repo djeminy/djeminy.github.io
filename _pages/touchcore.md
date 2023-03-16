@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "TouchCORE"
 permalink: /touchcore/
 author_profile: true
 ---
