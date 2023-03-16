@@ -1,6 +1,6 @@
 ---
 title: "Mammoth"
-excerpt: "<img src='/images/mammoth-logo.png' align="right" hspace="50">Mammoth is a massively multiplayer game research framework. The goal of Mammoth is to provide an environment for experimentation in areas such as distributed systems, fault tolerance, databases, modeling and simulation, artificial intelligence and aspect-orientation. Our industrial partners are Quazal, Electronic Arts Montreal, and EJ-Technologies."
+excerpt: "<img src='/images/mammoth-logo.png' align="right" hspace="50"/>Mammoth is a massively multiplayer game research framework. The goal of Mammoth is to provide an environment for experimentation in areas such as distributed systems, fault tolerance, databases, modeling and simulation, artificial intelligence and aspect-orientation. Our industrial partners are Quazal, Electronic Arts Montreal, and EJ-Technologies."
 collection: portfolio
 ---
 
