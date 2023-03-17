@@ -21,7 +21,7 @@ Jörg Kienzle is a full professor at the School of Computer Science at McGill Un
 
 Consult the [long version of my CV](/files/joerg_kienzle_cv.pdf) for more details.
 
-You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=INUL3eEAAAAJ&hl=en).
+You can find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=INUL3eEAAAAJ&hl=en) or on [my DBLP page](https://dblp.org/pid/k/JorgKienzle.html).
 
 ### Service and Leadership
 
