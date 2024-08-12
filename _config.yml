@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jörg Kienzle"
   avatar           : "profile.png"
-  bio              : "Full Professor at the School of Computer Science, McGill University"
-  location         : "Montreal, Canada"
-  employer         : "McGill University"
+  bio              : "Scientific Researcher, University of Málaga"
+  location         : "Málaga, Spain"
+  employer         : "University of Málaga"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=INUL3eEAAAAJ&hl=en"
-  email            : "Joerg.Kienzle@mcgill.ca"
+  email            : "Joerg.Kienzle@uma.es"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
