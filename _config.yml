@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jörg Kienzle"
   avatar           : "profile.png"
-  bio              : "Software Architect, Cordis"
+  bio              : 
   location         : "Málaga, Spain"
-  employer         : "Cordis"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=INUL3eEAAAAJ&hl=en"
-  email            : "Joerg.Kienzle@uma.es"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
